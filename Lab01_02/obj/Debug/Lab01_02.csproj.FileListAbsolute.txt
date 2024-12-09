@@ -1,0 +1,7 @@
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Lab01_02\bin\Debug\Lab01_02.exe.config
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Lab01_02\bin\Debug\Lab01_02.exe
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Lab01_02\bin\Debug\Lab01_02.pdb
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Lab01_02\obj\Debug\Lab01_02.csproj.AssemblyReference.cache
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Lab01_02\obj\Debug\Lab01_02.csproj.CoreCompileInputs.cache
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Lab01_02\obj\Debug\Lab01_02.exe
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Lab01_02\obj\Debug\Lab01_02.pdb

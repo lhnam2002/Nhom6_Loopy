@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C277C240-3645-4361-A5DD-096E803E9205}|Lab01_02\\Lab01_02.csproj|e:\\nam_4_2024_2025\\congcu\\baitap\\nhom6\\lab01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C277C240-3645-4361-A5DD-096E803E9205}|Lab01_02\\Lab01_02.csproj|solutionrelative:lab01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C277C240-3645-4361-A5DD-096E803E9205}|Lab01_02\\Lab01_02.csproj|E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\lab01_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C277C240-3645-4361-A5DD-096E803E9205}|Lab01_02\\Lab01_02.csproj|solutionrelative:lab01_02\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3B8379-2804-49FD-9D68-5677054FD8CD}|Nhom6\\Nhom6.csproj|E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\nhom6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3B8379-2804-49FD-9D68-5677054FD8CD}|Nhom6\\Nhom6.csproj|solutionrelative:nhom6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\Lab01_02\\Student.cs",
+              "RelativeDocumentMoniker": "Lab01_02\\Student.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\Lab01_02\\Student.cs",
+              "RelativeToolTip": "Lab01_02\\Student.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:46:25.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\Lab01_02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01_02\\Program.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\Lab01_02\\Program.cs",
+              "RelativeToolTip": "Lab01_02\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwGgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:38:09.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\Nhom6\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom6\\Program.cs",
+              "ToolTip": "E:\\Nam_4_2024_2025\\CongCu\\BaiTap\\Nhom6\\Nhom6\\Program.cs",
+              "RelativeToolTip": "Nhom6\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:30:43.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Nhom6\bin\Debug\Nhom6.exe.config
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Nhom6\bin\Debug\Nhom6.exe
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Nhom6\bin\Debug\Nhom6.pdb
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Nhom6\obj\Debug\Nhom6.csproj.AssemblyReference.cache
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Nhom6\obj\Debug\Nhom6.csproj.CoreCompileInputs.cache
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Nhom6\obj\Debug\Nhom6.exe
+E:\Nam_4_2024_2025\CongCu\BaiTap\Nhom6\Nhom6\obj\Debug\Nhom6.pdb
