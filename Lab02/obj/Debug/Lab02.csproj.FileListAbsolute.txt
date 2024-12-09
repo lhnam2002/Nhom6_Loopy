@@ -1,0 +1,10 @@
+D:\Congcu\Lab02\bin\Debug\Lab02.exe.config
+D:\Congcu\Lab02\bin\Debug\Lab02.exe
+D:\Congcu\Lab02\bin\Debug\Lab02.pdb
+D:\Congcu\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\Congcu\Lab02\obj\Debug\Lab02.frmCalculator.resources
+D:\Congcu\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\Congcu\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\Congcu\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\Congcu\Lab02\obj\Debug\Lab02.exe
+D:\Congcu\Lab02\obj\Debug\Lab02.pdb
