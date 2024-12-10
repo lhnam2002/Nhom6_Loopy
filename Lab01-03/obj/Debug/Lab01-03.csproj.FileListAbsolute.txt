@@ -1,0 +1,7 @@
+F:\CMP186_CongCu\Lab01\Lab01-03\bin\Debug\Lab01-03.exe.config
+F:\CMP186_CongCu\Lab01\Lab01-03\bin\Debug\Lab01-03.exe
+F:\CMP186_CongCu\Lab01\Lab01-03\bin\Debug\Lab01-03.pdb
+F:\CMP186_CongCu\Lab01\Lab01-03\obj\Debug\Lab01-03.csproj.AssemblyReference.cache
+F:\CMP186_CongCu\Lab01\Lab01-03\obj\Debug\Lab01-03.csproj.CoreCompileInputs.cache
+F:\CMP186_CongCu\Lab01\Lab01-03\obj\Debug\Lab01-03.exe
+F:\CMP186_CongCu\Lab01\Lab01-03\obj\Debug\Lab01-03.pdb
